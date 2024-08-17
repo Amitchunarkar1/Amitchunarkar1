@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Amit Chunarkar</h1>
-<h3 align="center">Frontend Developer | .Net, React, Spring Boot Enthusiast</h3>
+<h3 align="center">Backend Developer | .Net, React, Spring Boot Enthusiast</h3>
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=amitchunarkar1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
@@ -13,15 +13,7 @@
     🌱 Learning: Expanding my skill set with DevOps
     💬 Ask Me About: .Net, React, Spring Boot
 
-<h3 align="left">Connect with Me:</h3>
-<p align="left">
-    <a href="https://www.linkedin.com/in/amitchunarkar/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://twitter.com/amitchunarkar" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/twitter/follow/amitchunarkar?logo=twitter&style=for-the-badge" alt="Twitter" />
-    </a>
-</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://angular.io" target="_blank" rel="noreferrer">
